@@ -104,7 +104,7 @@ Optional but recommended: restrict who can talk to your bot.
 "channels": {
   "telegram": {
     "enabled": true,
-    "token": "123456789:ABCdefGHIjklMNOpqrsTUVwxyz",
+    "token": "<Your Token>",
     "proxy": "",
     "allow_from": ["YOUR_TELEGRAM_USER_ID"]
   }
